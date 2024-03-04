@@ -13,4 +13,4 @@ Esiste un sistema di kits utili per svolgere varie attività del server:
 - ***/kits***: mostra una lista di kits disponibili.
 - ***/kit <nomeKit>***: ottieni il kit con quel nome.
 - ***/showkit <nomeKit>***: ottieni informazioni sul contenuto del kit.
-Per ulteriori informazioni sui kits, come il costo o il delay, vai ai [kits](https://github.com/PacoverseAdmin/pacoverse.tutorial/kits.md).
+Per ulteriori informazioni sui kits, come il costo o il delay, vai ai [kits](https://github.com/PacoverseAdmin/pacoverse.tutorial/blob/main/kits.md).
