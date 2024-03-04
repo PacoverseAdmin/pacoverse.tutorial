@@ -9,6 +9,11 @@ Abbiamo una serie di comandi per muoversi più agevolmente nel mondo:
 - ***/back***: permette di tornare al punto dove si era prima del teletrasporto o della propria morte. Ad esempio, se faccio */home casa* e poi */back* tornerò al punto dov'ero prima
 - ***/warp \<nomeWarp\>***: permette di andare a un warp specifico, un punto di teleport valido per tutti i player.
 
+## Comandi per comunicare
+Abbiamo una serie di comandi per comunicare con gli altri:
+- ***/msg \<nomePlayer\> \<messaggio\>***: invia un messaggio privato al player. Sono ammessi anche i colori e la formattazione.
+- ***/r \<messaggio\>***: rispondo al messaggio privato del player che mi ha inviato un */msg*. Utile per evitare di riscrivere il comando precedente da capo.
+
 ## Comandi per i kits
 Esiste un sistema di kits utili per svolgere varie attività del server:
 - ***/kits***: mostra una lista di kits disponibili.
