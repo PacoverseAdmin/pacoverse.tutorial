@@ -1,0 +1,6 @@
+# Benvenuto nella _Bibbia del Pacoverse_
+
+## Regolamento generale
+Questo è un server ***multiworld***, il che significa che esistono più mondi su cui giocare, tutti con regole diverse. Per consultare il regolamento di ciascun mondo, basta andare in-game e leggere direttamente lì. Per entrare è necessario un procedimento particolare:
+- Bisogna aggiungere il proprio nome alla **whitelist**, o attraverso la console (disponibile solo previo pagamento del server) o attraverso una comunicazione scritta a @davebalda che provvederà ad aggiungervi. Se avete accesso alla console, potrete eseguire il comando ***whitelist add <nickname>*** per aggiungervi.
+- Bisogna darsi i permessi per giocare, o attraverso la console (disponibile solo previo pagamento del server) o attraverso una comunicazione scritta a @davebalda che provvederà a darveli. Se avete accesso alla console, potrete eseguire il comando ***pex user <nickname> group add Confirmed*** per darvi i permessi. Scrivendo in chat, dovreste avere un'etichetta "*[User]*" di fianco al vostro nome.
