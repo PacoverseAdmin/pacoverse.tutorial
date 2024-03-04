@@ -4,22 +4,22 @@ Detto ciò, ecco tutto quanto.
 
 ## Comandi per muoversi
 Abbiamo una serie di comandi per muoversi più agevolmente nel mondo:
-- ***/sethome <nomeCasa>***: permette di impostare una home, ciò un punto dove teletrasportarsi arbitrariamente.
-- ***/home <nomeCasa>***: permette di teletrasportarsi a suddetta home.
+- ***/sethome \<nomeCasa\>***: permette di impostare una home, ciò un punto dove teletrasportarsi arbitrariamente.
+- ***/home \<nomeCasa\>***: permette di teletrasportarsi a suddetta home.
 - ***/back***: permette di tornare al punto dove si era prima del teletrasporto o della propria morte. Ad esempio, se faccio */home casa* e poi */back* tornerò al punto dov'ero prima
-- ***/warp <nomeWarp>***: permette di andare a un warp specifico, un punto di teleport valido per tutti i player.
+- ***/warp \<nomeWarp\>***: permette di andare a un warp specifico, un punto di teleport valido per tutti i player.
 
 ## Comandi per i kits
 Esiste un sistema di kits utili per svolgere varie attività del server:
 - ***/kits***: mostra una lista di kits disponibili.
-- ***/kit <nomeKit>***: ottieni il kit con quel nome.
-- ***/showkit <nomeKit>***: ottieni informazioni sul contenuto del kit.
+- ***/kit \<nomeKit\>***: ottieni il kit con quel nome.
+- ***/showkit \<nomeKit\>***: ottieni informazioni sul contenuto del kit.
 Per ulteriori informazioni sui kits, come il costo o il delay, vai ai [kits](https://github.com/PacoverseAdmin/pacoverse.tutorial/blob/main/kits.md).
 
 ## Comandi economia
 Ecco i comandi relativi all'economia del server:
 - ***/bal***: mostra i tuoi soldi, la tua pecunia, il vile danaro perfino.
-- ***/pay <nomePlayer> <quantità>***: paga un giocatore una quantità di soldi (minimo *0.01*).
+- ***/pay \<nomePlayer\> \<quantità\>***: paga un giocatore una quantità di soldi (minimo *0.01*).
 - ***/sell hand***: vendi l'oggetto che hai in mano. Attenzione perché se l'oggetto è accumulabile e vendo quello che ho in mano, verranno venduti *TUTTI* gli oggetti di quel tipo nel mio inventario!
 - ***/paytoggle***: abilita/disabilita la conferma prima dell'invio di un pagamento. Utile per quelli come Orla.
 
