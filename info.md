@@ -18,4 +18,4 @@ Una volta dentro, ti si aprirà una schermata come questa:
 
 Basterà cliccare su "**Start**" per avviare il server.
 
-<u>***IMPORTANTISSIMO***</u>: onde evitare griefers, ogni volta che si finisce di giocare il server va spento! Premere quindi il tasto "**Stop**".
+<ins>***IMPORTANTISSIMO***</ins>: onde evitare griefers, ogni volta che si finisce di giocare il server va spento! Premere quindi il tasto "**Stop**".
