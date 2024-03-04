@@ -4,7 +4,7 @@ Detto ciò, ecco tutto quanto.
 
 ## Comandi per muoversi
 Abbiamo una serie di comandi per muoversi più agevolmente nel mondo:
-- <code style="color:gold">***/sethome \<nomeCasa\>***</code>: permette di impostare una home, ciò un punto dove teletrasportarsi arbitrariamente.
+- ***/sethome \<nomeCasa\>***: permette di impostare una home, ciò un punto dove teletrasportarsi arbitrariamente.
 - ***/home \<nomeCasa\>***: permette di teletrasportarsi a suddetta home.
 - ***/back***: permette di tornare al punto dove si era prima del teletrasporto o della propria morte. Ad esempio, se faccio */home casa* e poi */back* tornerò al punto dov'ero prima
 - ***/warp \<nomeWarp\>***: permette di andare a un warp specifico, un punto di teleport valido per tutti i player.
