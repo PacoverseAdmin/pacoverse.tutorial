@@ -8,3 +8,4 @@ Una lista di files:
 - ***info.md***: info generali sul server.
 - ***commands.md***: info sui comandi generali del server.
 - ***factions.md***: info sulle fazioni con relativi comandi.
+- ***kits.md***: info specifiche sui vari kits.
