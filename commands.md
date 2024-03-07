@@ -37,3 +37,4 @@ Esistono anche alcuni comandi utilizzabili per pura comodità:
 - ***/smithingtable***: apre una tavola del fabbro portabile.
 - ***/loom***: apre un telaio portabile.
 - ***/echest***: apre una enderchest portabile.
+- ***/recipe \<nomeItem\>***: mostra la ricetta per quell'item.
