@@ -32,4 +32,8 @@ Ecco i comandi relativi all'economia del server:
 ## Comandi di utility
 Esistono anche alcuni comandi utilizzabili per pura comodità:
 - ***/wb***: apre una crafting table portabile.
+- ***/anvil***: apre un'incudine portabile.
+- ***/cartographytable***: apre una tavola del cartografo portabile.
+- ***/smithingtable***: apre una tavola del fabbro portabile.
+- ***/loom***: apre un telaio portabile.
 - ***/echest***: apre una enderchest portabile.
