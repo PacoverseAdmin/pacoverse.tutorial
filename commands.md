@@ -20,7 +20,7 @@ Esiste un sistema di kits utili per svolgere varie attività del server:
 - ***/kit \<nomeKit\>***: ottieni il kit con quel nome.
 - ***/showkit \<nomeKit\>***: ottieni informazioni sul contenuto del kit.
 
-Per ulteriori informazioni sui kits, come il costo o il delay, vai ai [kits](https://github.com/PacoverseAdmin/pacoverse.tutorial/blob/main/kits.md).
+Tutti i kits hanno un delay di 10 minuti.
 
 ## Comandi economia
 Ecco i comandi relativi all'economia del server:
