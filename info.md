@@ -16,5 +16,6 @@ Una volta dentro, ti si aprirà una schermata come questa:
 
 <img src="images/main_menu.png">
 
-Basterà cliccare su "**Start**" per avviare il server. \\
+Basterà cliccare su "**Start**" per avviare il server.
+
 ***NON*** spegnetelo mai! Lasciatelo sempre acceso. Grazie.
