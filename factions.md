@@ -27,4 +27,11 @@ Tornando a noi:
 - ***/f mapheight \<altezza\>***: regolo il numero di righe stampate in chat quando faccio */f map*.
 
 ## Relazioni tra fazioni
-WIP
+Esiste la possibilità di allearsi con una fazione, inimicarsela o addirittura non avere rapporti (quello che è di default). Gli alleati di base non potranno colpirsi tra loro (il tutto modificabile con */f perm*).
+Vediamo come impostare queste relazioni e come gestirle:
+- ***/f ally \<nomeFazione\>***: rendo quella fazione mia alleata (nome visualizzato in rosa nella */f list*). Richiede conferma dall'altra parte.
+- ***/f enemy \<nomeFazione\>***: rendo quella fazione mia nemica (nome visualizzato in rosso nella */f list*).
+- ***/f neutral \<nomeFazione\>***: rendo quella fazione neutrale (nome visualizzato in bianco nella */f list*).
+
+Prestare molta attenzione! Se una fazione è tua NEMICA, non potrai utilizzare alcun tipo di comando per scappare al suo interno (come */home*, */warp* o altri). Quindi se si rimane intrappolati, auguri!
+Il consiglio è infatti quello di fare ***/f enemy*** quando sai che una fazione ti sta raidando, in modo da non permettere agli altri giocatori di scappare.
