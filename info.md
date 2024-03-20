@@ -17,5 +17,4 @@ Una volta dentro, ti si aprirà una schermata come questa:
 <img src="images/main_menu.png">
 
 Basterà cliccare su "**Start**" per avviare il server.
-
-<ins>***IMPORTANTISSIMO***</ins>: onde evitare griefers, ogni volta che si finisce di giocare il server va spento! Premere quindi il tasto "**Stop**".
+<u>NON</u> spegnetelo mai! Lasciatelo sempre acceso. Grazie.
