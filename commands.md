@@ -35,10 +35,10 @@ Esistono anche alcuni comandi utilizzabili per pura comodità:
 ## Comandi economia
 Ecco i comandi relativi all'economia del server:
 - ***/bal***: mostra i tuoi soldi, la tua pecunia, il vile danaro perfino.
-- ***/pay \<nomePlayer\> \<quantità\>***: paga un giocatore una quantità di soldi (minimo *0.01*).
+- ***/trade \<nomePlayer\>***: scambia oggetti, xp o soldi con un altro giocatore. Se si è vicini al player, si può anche fare "shift + click destro" su di esso per commerciare.
+- ***/trade \[accept|deny\]***: accetta o rifiuta una richiesta di scambio.
 - ***/sellall \<hand\>***: vendi l'oggetto che hai in mano. Attenzione, vende lo stack intero!
 - ***/sellall \<nomeItem\>***: vende tutti gli oggetti che si chiamano in quel modo che hai nell'inventario. I nomi degli item vengono forniti dall'autocompletamento.
 - ***/shop***: apre lo shop dove puoi acquistare/vendere la roba.
 - ***/withdraw \<quantità\>***: preleva una certa quantità di soldi in una banconota.
 - ***/xpbottle \<quantità\>***: preleva una certa quantità di XP in una bottiglia (utile per quando si va a combattere).
-- ***/paytoggle***: abilita/disabilita la conferma prima dell'invio di un pagamento. Utile per quelli come Orla.
