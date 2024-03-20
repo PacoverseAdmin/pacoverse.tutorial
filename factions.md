@@ -35,3 +35,8 @@ Vediamo come impostare queste relazioni e come gestirle:
 
 Prestare molta attenzione! Se una fazione è tua NEMICA, non potrai utilizzare alcun tipo di comando per scappare al suo interno (come */home*, */warp* o altri). Quindi se si rimane intrappolati, auguri!
 Il consiglio è infatti quello di fare ***/f enemy*** quando sai che una fazione ti sta raidando, in modo da non permettere agli altri giocatori di scappare.
+
+## Altro
+Comandi sempre factions generici:
+- ***/f getvault***: ti da una chest personale (vault) piazzabile e accessibile da ogni player della fazione tramite */f vault*. Costa 5000€!
+- ***/f vault***: apre il vault della fazione.
