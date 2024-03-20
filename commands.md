@@ -22,13 +22,6 @@ Esiste un sistema di kits utili per svolgere varie attività del server:
 
 Tutti i kits hanno un delay di 10 minuti.
 
-## Comandi economia
-Ecco i comandi relativi all'economia del server:
-- ***/bal***: mostra i tuoi soldi, la tua pecunia, il vile danaro perfino.
-- ***/pay \<nomePlayer\> \<quantità\>***: paga un giocatore una quantità di soldi (minimo *0.01*).
-- ***/sell hand***: vendi l'oggetto che hai in mano. Attenzione perché se l'oggetto è accumulabile e vendo quello che ho in mano, verranno venduti *TUTTI* gli oggetti di quel tipo nel mio inventario!
-- ***/paytoggle***: abilita/disabilita la conferma prima dell'invio di un pagamento. Utile per quelli come Orla.
-
 ## Comandi di utility
 Esistono anche alcuni comandi utilizzabili per pura comodità:
 - ***/wb***: apre una crafting table portabile.
@@ -38,3 +31,14 @@ Esistono anche alcuni comandi utilizzabili per pura comodità:
 - ***/loom***: apre un telaio portabile.
 - ***/echest***: apre una enderchest portabile.
 - ***/recipe \<nomeItem\>***: mostra la ricetta per quell'item.
+
+## Comandi economia
+Ecco i comandi relativi all'economia del server:
+- ***/bal***: mostra i tuoi soldi, la tua pecunia, il vile danaro perfino.
+- ***/pay \<nomePlayer\> \<quantità\>***: paga un giocatore una quantità di soldi (minimo *0.01*).
+- ***/sellall \<hand\>***: vendi l'oggetto che hai in mano. Attenzione, vende lo stack intero!
+- ***/sellall \<nomeItem\>***: vende tutti gli oggetti che si chiamano in quel modo che hai nell'inventario. I nomi degli item vengono forniti dall'autocompletamento.
+- ***/shop***: apre lo shop dove puoi acquistare/vendere la roba.
+- ***/withdraw \<quantità\>***: preleva una certa quantità di soldi in una banconota.
+- ***/xpbottle \<quantità\>***: preleva una certa quantità di XP in una bottiglia (utile per quando si va a combattere).
+- ***/paytoggle***: abilita/disabilita la conferma prima dell'invio di un pagamento. Utile per quelli come Orla.
