@@ -1,6 +1,6 @@
 # Comandi per le fazioni
 Qua saranno presenti tutti (o comunque buona parte) dei comandi utili per giocare correttamente nelle ***factions***!
-Mi raccomando, leggere attentamente tutto quanto e se si hanno dei dubbi chiedere pure.
+Mi raccomando, leggere attentamente tutto quanto e se si hanno dei dubbi chiedere pure. Ricordati che esiste ***/f help***!!
 
 ## Creazione/gestione fazione
 - ***/f create \<nomeFazione\>***: creo una fazione con un certo nome. Alla sua creazione, la fazione *NON AVRA' NESSUN TERRITORIO*! Sarà solo per bellezza.
