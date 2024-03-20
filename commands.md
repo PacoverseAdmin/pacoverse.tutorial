@@ -34,7 +34,8 @@ Esistono anche alcuni comandi utilizzabili per pura comodità:
 
 ## Comandi economia
 Ecco i comandi relativi all'economia del server:
-- ***/bal***: mostra i tuoi soldi, la tua pecunia, il vile danaro perfino.
+- ***/bal \<nomePlayer\>***: mostra il vile danaro posseduto da quel player. Se non si mette nessun nome, si visualizza il proprio.
+- ***/baltop***: mostra la classifica dei giocatori più ricchi del server. Essendo in pochi, è un comando ottimo per vedere tutti i conti in una volta sola.
 - ***/trade \<nomePlayer\>***: scambia oggetti, xp o soldi con un altro giocatore. Se si è vicini al player, si può anche fare "shift + click destro" su di esso per commerciare.
 - ***/trade \[accept|deny\]***: accetta o rifiuta una richiesta di scambio.
 - ***/sellall \<hand\>***: vendi l'oggetto che hai in mano. Attenzione, vende lo stack intero!
